@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Murillo Lopes 😁
+## Bem-vindo(a) ao perfil do Murillo Lopes
 
  <div>
    <a href="https://github.com/MurilloSLopes">
